@@ -1,8 +1,4 @@
-cv.aux
-cv.log
-cv.pdf
-cv.synctex.gz
-transcript.aux
-transcript.log
-transcript.pdf
-transcript.synctex.gz
+*.aux
+*.log
+*.pdf
+*.synctex.gz
