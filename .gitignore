@@ -1,12 +1,2 @@
-*.aux
-*.log
 *.pdf
-*.synctex.gz
-
-*.out
-
-.DS_Store
-
-*.fdb_latexmk
-
-*.fls
+node_modules/
