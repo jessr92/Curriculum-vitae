@@ -13,10 +13,9 @@
     "name": "Gordon Reid"
   },
   "dependencies": {
-    "markdown-pdf": "^6.0.0"
+    "markdown-pdf": "^9.0.0"
   },
   "scripts": {
-    "start-windows": "node markdownToPdf",
-    "start-debian": "nodejs markdownToPdf"
+    "compile": "node markdownToPdf"
   }
 }

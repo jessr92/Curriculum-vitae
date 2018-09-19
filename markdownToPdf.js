@@ -1,19 +1,19 @@
-/*jshint node: true*/
+/*jshint node: true, esversion: 6 */
 "use strict";
 
-var markdownPDF = require("markdown-pdf");
-var path = require("path");
+const markdownPDF = require("markdown-pdf");
+const path = require("path");
 
-var mdDocs = [
+const mdDocs = [
     path.join(__dirname, "gordon-reid-cv.md"),
     path.join(__dirname, "gordon-reid-transcript.md")
 ];
 
-var pdfDocs = mdDocs.map(function (d) {
+const pdfDocs = mdDocs.map(function (d) {
     return d.replace(".md", ".pdf")
 });
 
-var options = {
+const options = {
     cssPath: path.join(__dirname, "custom.css")
 };
 
