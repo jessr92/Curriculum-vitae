@@ -21,7 +21,7 @@ Building data sets and publishing relationships which back many of the core feat
 
 #### Dynamic Merchandising Experience
 
-Worked on on numerous systems including: a self-service graphic creation web tool making use of various web technologies and a large scale metadata aggregator and widget renderer in Scala and Java.
+Worked on numerous systems including: a self-service graphic creation web tool making use of various web technologies and a large scale metadata aggregator and widget renderer in Scala and Java.
 
 # Education
 
