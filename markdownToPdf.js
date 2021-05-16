@@ -14,7 +14,8 @@ const pdfDocs = mdDocs.map(function (d) {
 });
 
 const options = {
-    cssPath: path.join(__dirname, "custom.css")
+    cssPath: path.join(__dirname, "custom.css"),
+    paperFormat: "A4"
 };
 
 markdownPDF(options).from(mdDocs).to(pdfDocs, function () {
