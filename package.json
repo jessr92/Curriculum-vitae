@@ -13,7 +13,7 @@
     "name": "Gordon Reid"
   },
   "dependencies": {
-    "markdown-pdf": "gordon1992/markdown-pdf#master"
+    "markdown-pdf": "^11.0.0"
   },
   "scripts": {
     "compile": "node markdownToPdf"
