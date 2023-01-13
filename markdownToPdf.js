@@ -5,8 +5,7 @@ const markdownPDF = require("markdown-pdf");
 const path = require("path");
 
 const mdDocs = [
-    path.join(__dirname, "gordon-reid-cv.md"),
-    path.join(__dirname, "gordon-reid-transcript.md")
+    path.join(__dirname, "gordon-reid-cv.md")
 ];
 
 const pdfDocs = mdDocs.map(function (d) {
