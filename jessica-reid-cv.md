@@ -1,12 +1,12 @@
-# Curriculum Vitae for Gordon Reid
+# Curriculum Vitae for Jessica Reid
 
 I am a professional software developer based in Scotland who has been in the industry since 2015.
 
-My current projects are available for viewing on my GitHub account: https://github.com/gordon1992
+My current projects are available for viewing on my GitHub account: https://github.com/jessr92
 
 ## Contact information
 
-Personal Email: gordon.reid1992@hotmail.co.uk
+Personal Email: jess.reid1992@outlook.com
 
 # Work Experience
 

@@ -1,16 +1,16 @@
 {
-  "name": "gordon-reid-personal-website",
+  "name": "jessica-reid-personal-website",
   "version": "0.0.0",
   "description": "Curriculum Vitae",
-  "homepage": "gordon-reid.com",
+  "homepage": "jessreid.uk",
   "bugs": {
-    "url": "https://github.com/gordon1992/Curriculum-vitae/issues",
-    "email": "gordon.reid1992@hotmail.co.uk"
+    "url": "https://github.com/jessr92/Curriculum-vitae/issues",
+    "email": "jess.reid1992@outlook.com"
   },
   "private": true,
   "main": "markdownToPdf.js",
   "author": {
-    "name": "Gordon Reid"
+    "name": "Jessica Reid"
   },
   "dependencies": {
     "markdown-pdf": "^11.0.0"
