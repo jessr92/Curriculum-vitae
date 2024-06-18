@@ -17,16 +17,15 @@ Personal Email: jess.reid1992@outlook.com
 **May 2017 to Present - Software Development Engineer 2**
 
 The core of the work on this team involved developing on and supporting a large scale data pipeline focused on the
-publication and management of relationships that back many of the core features of the Amazon retail experience.
+publication and management of relationships that back many of the core features of the Amazon retail experience. With
+my tenure within the team, I also directly mentored intern and permanent employees.
 
 I also directly worked with various other teams across the company in their development efforts for solving crucial and
-time-sensitive business problems.
-
-I have also acted as point of contact for several teams to advise and assist with onboarding and integrating with core
-business infrastructure to simplify cross-team engagement.
+time-sensitive business problems. I have also acted as point of contact to advise and assist with onboarding and
+integrating with core business infrastructure to simplify cross-team engagement.
 
 A core theme throughout has been operating with frugality mindset to ensure efficient use of developer time and compute
-resources.
+resources while also ensuring compliance with global data privacy requirements.
 
 ### Dynamic Merchandising
 

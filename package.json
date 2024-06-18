@@ -8,14 +8,13 @@
     "email": "jess.reid1992@outlook.com"
   },
   "private": true,
-  "main": "markdownToPdf.js",
   "author": {
     "name": "Jessica Reid"
   },
   "dependencies": {
-    "markdown-pdf": "^11.0.0"
+    "md-to-pdf": "^5.2.4"
   },
   "scripts": {
-    "compile": "node markdownToPdf"
+    "compile": "md-to-pdf jessica-reid-cv.md --config-file config.json"
   }
 }

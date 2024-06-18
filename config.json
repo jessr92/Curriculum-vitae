@@ -1,0 +1,7 @@
+{
+  "stylesheet": "custom.css",
+  "pdf_options": {
+    "format": "A4",
+    "margin": "15mm"
+  }
+}
