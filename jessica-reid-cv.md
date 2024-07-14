@@ -16,9 +16,9 @@ jess.reid1992@outlook.com
 
 The core of my work involves developing and supporting an Amazon catalog scale (billions of items across tens of
 marketplaces) data pipeline focused on the publication and management of relationships that power many Amazon retail
-experience features. I also directly mentored intern and permanent software developers.
+experience features. I also directly mentor intern and permanent software developers.
 
-Technologies involved included AWS services such as EMR, DynamoDB, RDS, SQS, SNS with implementation written in Java
+Technologies involved include AWS services such as EMR, DynamoDB, RDS, SQS, SNS with implementation written in Java
 (including migrations from 8 to 11 to 17) with Typescript for infrastructure management. All services have CI/CD with
 team-level ownership of all operational responsibilities.
 
