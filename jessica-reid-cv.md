@@ -18,9 +18,10 @@ The core of my work involves developing and supporting an Amazon catalog scale (
 marketplaces) data pipeline focused on the publication and management of relationships that power many Amazon retail
 experience features. I also directly mentor intern and permanent software developers.
 
-Technologies involved include AWS services such as EMR, DynamoDB, RDS, SQS, SNS with implementation written in Java
-(including migrations from 8 to 11 to 17) with Typescript for infrastructure management. All services have CI/CD with
-team-level ownership of all operational responsibilities.
+Technologies involved include AWS services such as EMR, DynamoDB, RDS, SQS, SNS with implementation primarily written
+in Java (including migrations from 8 to 11 to 17) with Typescript for infrastructure management and some systems
+leveraging Python for scripting and using Node.JS/React for front-end.  All services have CI/CD with team-level 
+ownership of all operational responsibilities.
 
 I am also point of contact for client and sibling teams globally to assist their efforts in solving critical and
 time-sensitive business problems. I also assist with their design and integration to core infrastructure with a focus
