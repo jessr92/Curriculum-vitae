@@ -24,8 +24,8 @@ team-level ownership of all operational responsibilities.
 
 I am also point of contact for client and sibling teams globally to assist their efforts in solving critical and
 time-sensitive business problems. I also assist with their design and integration to core infrastructure with a focus
-on simplifying cross-team engagement. I have also been involved in inter-year and next-year planning cycles,
-influencing team direction and managing hardware budgets.
+on simplifying cross-team engagement. I am also involved in inter-year and next-year planning cycles, influencing team
+direction and managing hardware budgets.
 
 A core theme throughout has been operating with frugality mindset to ensure efficient use of developer time, auditor
 time, and compute resources while also ensuring compliance with global data privacy requirements such as Data Subject
