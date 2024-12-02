@@ -6,7 +6,7 @@ Jessica is an experienced technical lead with over 9 years experience working on
 
 ### Professional Software Experience
 
-#### August 2015 to Present - Amazon
+#### August 2015 to December 2024 - Amazon
 
 #### Software Development Engineer 2
 
