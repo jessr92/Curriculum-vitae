@@ -10,17 +10,17 @@ Jessica is an experienced technical lead with over 9 years experience working on
 
 #### Software Development Engineer 2
 
-Jessica is a tech lead in an organisation with data pipelines managing relationships between products, processing data at petabyte-scale. Her team manages 2.4BN relationships, adding over 30MM each month. Her work involves batch- and event-based processing, storage, and publishing of relationship changes using machine learning technologies. She leads cross-team projects, and components for cross-organisational efforts, while also providing input to the overall strategy. She also develops the data orchestration platform that powers the data pipelines of various business verticals across the company.
+Jessica was a tech lead in an organisation with data pipelines managing relationships between products, processing data at petabyte-scale. Her team managed 2.4BN relationships, adding over 30MM each month. Her work involved batch- and event-based processing, storage, and publishing of relationship changes using machine learning technologies. She led cross-team projects, and components for cross-organisational efforts, while also providing input to the overall strategy. She also developed the data orchestration platform that powered the data pipelines of various business verticals across the company.
 
-Jessica is experienced with a variety of tech stacks and is always eager to learn new technologies. Most of her experience is with AWS services such as EMR, DynamoDB, RDS, Lambda, SQS, and SNS with implementation primarily written in Java. She uses Typescript for infrastructure management using AWS CDK. She works on systems leveraging Python for scripting and Node.js and React for front-end. All services have CI/CD with team ownership of all operational responsibilities. She helps maintain and upgrade software, such as Java major version upgrades and security upgrades of libraries.
+Jessica's experience spanned a variety of tech stacks and is always eager to learn new technologies. Most of her experience is with AWS services such as EMR, DynamoDB, RDS, Lambda, SQS, and SNS with implementation primarily written in Java. She has used Typescript for infrastructure management using AWS CDK and worked on systems leveraging Python for scripting and Node.js and React for front-end. All services had CI/CD with team ownership of all operational responsibilities. She helped maintain and upgrade software, such as Java major version upgrades and security upgrades of libraries.
 
-Jessica is a point of contact for client and sibling teams globally to assist their efforts in solving critical and time-sensitive business problems. She also assists with their design decisions and integration to core infrastructure with a focus on simplifying cross-team engagement.
+Jessica was a point of contact for client and sibling teams globally to assist their efforts in solving critical and time-sensitive business problems. She also assisted with their design decisions and integration to core infrastructure with a focus on simplifying cross-team engagement.
 
 Jessica's mentoring of intern and permanent software developers has a proven track record of success with them growing and advancing to the next stages of their career.
 
-Jessica is solely responsible for managing and maintaining double-digit $MM compute spend for part of the organisation. She has led and influenced double-digit % cost improvement measures without impacting system performance or project progress, often improving both. Her frugality mindset ensures efficient use of developer time, auditor team, and compute resources.
+Jessica was solely responsible for managing and maintaining double-digit $MM compute spend for part of the organisation. She has led and influenced double-digit % cost improvement measures without impacting system performance or project progress, often improving both. Her frugality mindset ensured efficient use of developer time, auditor team, and compute resources.
 
-Jessica leads multiple teams' efforts to maintain compliance with global data privacy requirements such as Data Subject Access Requests and On Demand Data Deletion.
+Jessica led multiple teams' efforts to maintain compliance with global data privacy requirements such as Data Subject Access Requests and On Demand Data Deletion.
 
 #### Software Development Engineer 1 and Intern
 
