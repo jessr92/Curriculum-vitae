@@ -12,7 +12,7 @@
     "name": "Jessica Reid"
   },
   "dependencies": {
-    "md-to-pdf": "^5.2.4"
+    "md-to-pdf": "^5.2.5"
   },
   "scripts": {
     "compile": "md-to-pdf jessica-reid-cv.md --config-file config.json"
