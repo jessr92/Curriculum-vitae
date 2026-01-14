@@ -22,7 +22,7 @@ Jessica's experience spanned a variety of tech stacks and is always eager to lea
 
 Jessica was a point of contact for client and sibling teams globally to assist their efforts in solving critical and time-sensitive business problems. She also assisted with their design decisions and integration to core infrastructure with a focus on simplifying cross-team engagement.
 
-Jessica's mentoring of intern and permanent software developers has a proven track record of success with them growing and advancing to the next stages of their career.
+Jessica's mentoring of intern and permanent software developers has a proven track record of success with them growing and advancing to the next stages of their career. She has also been active in interviewing for different organisations across the company.
 
 Jessica was solely responsible for managing and maintaining double-digit $MM compute spend for part of the organisation. She has led and influenced double-digit % cost improvement measures without impacting system performance or project progress, often improving both. Her frugality mindset ensured efficient use of developer time, auditor time, and compute resources.
 
