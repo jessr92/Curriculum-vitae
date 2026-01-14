@@ -8,9 +8,9 @@ Jessica is an experienced technical lead with 10 years experience working on cut
 
 #### December 2024 to Present - FanDuel - Senior Software Engineer
 
-Jessica is a tech lead in an organisation responsible for responsible gaming and gambling compliance. Her team's area of focus is on geolocation of customers to ensure compliance with gambling laws for every location and product offered by the company.
+Jessica is a tech lead in an organisation responsible for responsible gaming and gambling compliance. Her team's area of focus is on geolocation of customers to ensure compliance with gambling laws for every location and product offered by the company. Her work continues to include both technical implementation and short to long term planning with organisational leadership.
 
-Jessica is building on her previous experience to build best-in-class geolocation functionality to ensure FanDuel's operations run smoothly and are compliant with geolocation regulations.
+Jessica is building on her previous experience to build best-in-class geolocation functionality to ensure FanDuel's operations run smoothly and are compliant with geolocation regulations. The software stack includes Java, Spring Boot, and Python while leveraging Kubernetes, AWS SNS, SQS, Lambdas, and Kafka.
 
 Jessica's work has also involved directly communicating with testing, certification, and regulatory bodies to communicate service modifications as part of compliance requirements.
 
